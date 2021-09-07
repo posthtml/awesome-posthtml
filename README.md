@@ -17,12 +17,6 @@ A curated list of awesome things related to <a href='https://github.com/posthtml
 </a>
 </p>
 
-##
-
-<p align='center'>In case you want to develop your own plugin, we recommend using [posthtml-plugin-starter][plugin] to get started.</p>
-
-[plugin]: https://github.com/posthtml/posthtml-plugin-starter
-
 #### TEXT
 
 | Name |Status|Description|
